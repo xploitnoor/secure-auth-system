@@ -1,0 +1,1 @@
+<?php // Simulated Oauth2.php ?>
